@@ -42,7 +42,7 @@ body {
 .titulo {
   margin-bottom: 180px;
   font-family: "Arial Narrow", Arial, sans-serif;
-  color: yellow;
+  color: rgba(253, 252, 255, 0.962);
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
